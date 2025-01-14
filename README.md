@@ -30,7 +30,7 @@ to run.
 
 ### Licencing information
 
-    * Simple DirectMedia Layer (SDL) 1.2.15 & SDL 1.2.X extention libraries *
+- Simple DirectMedia Layer (SDL) 1.2.15 & SDL 1.2.X extention libraries
     
     Version 1.2.15 of Simple DirectMedia Layer (SDL), SDL 1.2.X
     extention libraries "SDL_image" and "SDL_mixer" and their .dll
@@ -44,7 +44,7 @@ to run.
     "Free Software Foundation (FSF)".
 
 
-    * JPEG library (jpeg.dll) *
+- JPEG library (jpeg.dll)
 
     This software is based in part on the work of the Independent JPEG Group.
 
@@ -65,7 +65,7 @@ to run.
     "libpng".
 
 
-    * zlib library (zlib.dll) *
+- zlib library (zlib.dll)
     
     The PNG library depends on the zlib library (zlib.dll) to function.
     This library is licenced under the zlib License.
@@ -75,7 +75,7 @@ to run.
     by searching  the internet for "zlib_license" or "zlib".
     
     
-    * SDL MPEG Player Library (SMPEG) (smpeg.dll) *
+- SDL MPEG Player Library (SMPEG) (smpeg.dll)
     
     SDL_Mixer uses the SDL MPEG Player Library (SMPEG) (smpeg.dll) to
     interact with .mp3 format audio files. This library is licenced

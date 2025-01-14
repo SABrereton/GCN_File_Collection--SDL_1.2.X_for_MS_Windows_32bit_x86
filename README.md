@@ -53,7 +53,7 @@ to run.
     Independent JPEG Group (IJG).
 
 
-    * PNG library (libpng1.dll) *
+- PNG library (libpng1.dll)
 
     SDL_image uses the PNG library (libpng1.dll) to interact with .png
     format image files. This library is licenced under the

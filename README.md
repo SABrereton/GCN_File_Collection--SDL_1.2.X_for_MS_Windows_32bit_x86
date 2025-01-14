@@ -24,7 +24,7 @@ SDL and SDL extention library features.
 ### Installing
 
 Copy the required .dll library files into the same directory/folder
-that contrains the .exe executable file of the program that you wish
+that contains the .exe executable file of the program that you wish
 to run.
 
 

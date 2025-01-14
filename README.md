@@ -1,19 +1,14 @@
-                         GCN File Collection
-                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-              SDL 1.2.X for Microsoft Windows 32bit x86
-              ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-
-                          Brief information
-                          ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+# GCN File Collection
+# SDL 1.2.X for Microsoft Windows 32bit x86
 
 
-++ About this document / Introduction ++
+### About this document / Introduction
 
 The purpose of this document is to provide some information about
 this collection of files.
 
 
-++ About the collection ++
+### About the collection
 
 This is a collection of the various .dll library files which are
 required to run GCN programs developed to run on systems that use
@@ -26,14 +21,14 @@ program as not all of the GCN programs may use the same combination of
 SDL and SDL extention library features.
 
 
-++ Installing ++
+### Installing
 
 Copy the required .dll library files into the same directory/folder
 that contrains the .exe executable file of the program that you wish
 to run.
 
 
-++ Licencing information ++
+### Licencing information
 
     * Simple DirectMedia Layer (SDL) 1.2.15 & SDL 1.2.X extention libraries *
     

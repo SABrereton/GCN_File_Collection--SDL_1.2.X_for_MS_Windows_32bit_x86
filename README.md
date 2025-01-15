@@ -28,7 +28,7 @@ that contains the .exe executable file of the program that you wish
 to run.
 
 
-### Licencing information
+### Legal / Licencing information
 
 - Simple DirectMedia Layer (SDL) 1.2.15 & SDL 1.2.X extention libraries
     

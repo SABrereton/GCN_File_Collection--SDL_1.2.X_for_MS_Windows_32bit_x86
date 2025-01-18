@@ -20,6 +20,21 @@ Which of the .dll library files are required will depend on the
 program as not all of the GCN programs may use the same combination of
 SDL and SDL extention library features.
 
+The collection as of 2024-12-28 contains the following .dll library files:
+
+SDL.dll
+SDL_image.dll
+SDL_mixer.dll
+
+jpeg.dll
+libpng1.dll
+smpeg.dll
+zlib.dll
+
+### Download
+
+[Collection as of 2024-12-28]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)\
+
 
 ### Installing
 

@@ -1,4 +1,5 @@
-# GCN File Collection\ SDL 1.2.X for Microsoft Windows 32bit x86
+# GCN File Collection
+# SDL 1.2.X for Microsoft Windows 32bit x86
 
 
 ### About this document / Introduction

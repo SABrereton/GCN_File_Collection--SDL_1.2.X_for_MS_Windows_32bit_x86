@@ -24,7 +24,7 @@ The collection as of 2024-12-28 contains the following .dll library files:
 
 SDL.dll\
 SDL_image.dll\
-SDL_mixer.dll\
+SDL_mixer.dll
 
 jpeg.dll\
 libpng1.dll\

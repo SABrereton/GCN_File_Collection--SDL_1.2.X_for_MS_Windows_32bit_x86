@@ -22,18 +22,18 @@ SDL and SDL extention library features.
 
 The collection as of 2024-12-28 contains the following .dll library files:
 
-SDL.dll
-SDL_image.dll
-SDL_mixer.dll
+SDL.dll\
+SDL_image.dll\
+SDL_mixer.dll\
 
-jpeg.dll
-libpng1.dll
-smpeg.dll
+jpeg.dll\
+libpng1.dll\
+smpeg.dll\
 zlib.dll
 
 ### Download
 
-[Collection as of 2024-12-28]( https://github.com/SABrereton/GCN_Scalar--Type_A/releases/download/Imp00001-Version_1-The_program/GCN_Scalar-tA-Imp00001-v0p1--Prg.zip)\
+[Collection as of 2024-12-28]( https://github.com/SABrereton/GCN_File_Collection--SDL_1.2.X_for_MS_Windows_32bit_x86/releases/download/Upload--2024-12-28/gcn_libs--sdl_1p2pX--MSWin_x86-32.zip )
 
 
 ### Installing

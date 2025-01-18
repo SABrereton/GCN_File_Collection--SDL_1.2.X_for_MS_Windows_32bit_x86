@@ -17,8 +17,8 @@ versions of the Microsoft Windows operating system that run on
 the SDL API and version 1.2.X SDL extention libraries.
 
 Which of the .dll library files are required will depend on the
-program as not all of the GCN programs may use the same combination of
-SDL and SDL extention library features.
+program that you wish to run as not all of the GCN programs may use
+the same combination of SDL and SDL extention library features.
 
 The collection as of 2024-12-28 contains the following .dll library files:
 
